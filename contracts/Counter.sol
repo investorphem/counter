@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at basescan.org on 2025-07-30
-*/
-
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 contract Counter {
